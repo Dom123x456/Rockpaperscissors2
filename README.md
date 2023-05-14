@@ -70,6 +70,11 @@ Had one issue were the lack of a const winningScore = ; was causing for my butto
 
 had issue in validator where i forgot to add lang  = "en" in my html
 
+
+![image](https://github.com/Dom123x456/Rockpaperscissors2/assets/108178672/c88a333d-3a1a-4728-8d30-5723bd301400)
+
+
+
 ## Materials Used and References
 
 ## Gameplay
