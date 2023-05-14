@@ -73,3 +73,27 @@ function disableButtons() {
         button.disabled = true;
     });
 }
+
+function resetGame() {
+    playerScore = 0;
+    computerScore = 0;
+
+    const playerScoreDiv = document.getElementById('player-score');
+    playerScoreDiv.textContent = 'Player: 0';
+
+    const computerScoreDiv = document.getElementById('computer-score');
+    computerScoreDiv.textContent = 'Computer: 0';
+
+    const resultDiv = document.getElementById('result');
+    resultDiv.textContent = '';
+
+    const buttons = document.querySelectorAll('#game button');
+    buttons.forEach(button => {
+        button.disabled = false;
+    });
+}
+
+// Reset scores and result on page load
+window.onload = function () {
+    resetGame();
+};
