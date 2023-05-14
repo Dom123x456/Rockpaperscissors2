@@ -78,8 +78,6 @@ after that fix there was no more issue
 ![image](https://github.com/Dom123x456/Rockpaperscissors2/assets/108178672/83b738d6-fb95-421a-9d85-978ada15089f)
 
 
-## Materials Used and References
-
 ## Gameplay
 
 The game follows the rules of Rock Paper Scissors Lizard Spock, an extension of the classic Rock Paper Scissors game. The available choices are:
@@ -113,7 +111,17 @@ https://github.com/Robrowno/rock-paper-scissors
 
 ## Usage
 
-To play the game, simply open the `index.html` file in a web browser that supports JavaScript.
+1. Open the HTML file in a web browser.
+2. Read the rules displayed on the page to understand how the game works.
+3. Click on one of the buttons with the images representing your choice (rock, paper, scissors, lizard, or spock).
+4. The computer will randomly select its choice.
+5. The result of the round will be displayed, indicating whether you win, lose, or it's a tie.
+6. The scores will be updated based on the result.
+7. Continue playing rounds until one of the players reaches the winning score (5 in this case).
+8. Once the game is won by either the player or the computer, the final result will be announced.
+9. To play again, click the "Replay" button.
+
+Repeat steps 3 to 9 to play multiple games.To play the game, simply 
 
 
 
