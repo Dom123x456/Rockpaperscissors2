@@ -73,6 +73,9 @@ had issue in validator where i forgot to add lang  = "en" in my html
 
 ![image](https://github.com/Dom123x456/Rockpaperscissors2/assets/108178672/c88a333d-3a1a-4728-8d30-5723bd301400)
 
+after that fix there was no more issue
+
+![image](https://github.com/Dom123x456/Rockpaperscissors2/assets/108178672/83b738d6-fb95-421a-9d85-978ada15089f)
 
 
 ## Materials Used and References
