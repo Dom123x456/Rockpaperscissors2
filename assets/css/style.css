@@ -61,3 +61,26 @@ button img {
     font-size: 18px;
     margin-right: 20px;
 }
+
+/* Responsive adjustments */
+@media (max-width: 480px) {
+    #game {
+        flex-wrap: wrap;
+    }
+
+    button {
+        width: 100%;
+        margin-top: 10px;
+    }
+}
+.button-image {
+    width: 100px;
+    height: 100px;
+}
+#footer {
+    background-color: grey;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
