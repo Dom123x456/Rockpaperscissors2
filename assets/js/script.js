@@ -51,3 +51,18 @@ function updateScore(result) {
     }
 }
 
+function displayResult(playerSelection, computerSelection, result) {
+    const resultDiv = document.getElementById('result');
+    resultDiv.textContent = `You chose ${playerSelection}. The computer chose ${computerSelection}. ${result}`;
+
+    const playerScoreDiv = document.getElementById('player-score');
+    playerScoreDiv.textContent = `Player: ${playerScore}`;
+
+    const computerScoreDiv = document.getElementById('computer-score');
+    computerScoreDiv.textContent = `Computer: ${computerScore}`;
+}
+
+function announceResult(message) {
+    const resultDiv = document.getElementById('result');
+    resultDiv.textContent = message;
+}
