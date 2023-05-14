@@ -6,7 +6,7 @@ This is a simple Rock Paper Scissors Lizard Spock game implemented using JavaScr
 ---
 The purpose of this site is to show that i have created a functional game within Java script that holds up to a decent standard. The actual site itself is a spin on rock papare sicissors with two other options that the player can uses to play againts the computer.
 
-the live site is linked here -
+the live site is linked here - https://dom123x456.github.io/Rockpaperscissors2/
 
 # **Contents**
 
@@ -67,6 +67,8 @@ The game has been tested on various browsers and devices to ensure cross-browser
 Had one issue were the lack of a const winningScore = ; was causing for my buttons to not work as intended and instead froze up the site.This was correctly swiftly by adding const winningScore = 5; to set the value
 
 ![image](https://github.com/Dom123x456/Restaurant_Management_System_Project_Django/assets/108178672/460e344b-9984-46b4-96dd-f8942b7264ae)
+
+had issue in validator where i forgot to add lang  = "en" in my html
 
 ## Materials Used and References
 
