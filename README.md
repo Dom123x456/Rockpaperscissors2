@@ -77,6 +77,7 @@ after that fix there was no more issue
 
 ![image](https://github.com/Dom123x456/Rockpaperscissors2/assets/108178672/83b738d6-fb95-421a-9d85-978ada15089f)
 
+when testing my js code for validation it was fine for  any  syntax errors
 
 ## Gameplay
 
