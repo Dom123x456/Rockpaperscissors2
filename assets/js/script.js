@@ -66,3 +66,10 @@ function announceResult(message) {
     const resultDiv = document.getElementById('result');
     resultDiv.textContent = message;
 }
+
+function disableButtons() {
+    const buttons = document.querySelectorAll('#game button');
+    buttons.forEach(button => {
+        button.disabled = true;
+    });
+}
